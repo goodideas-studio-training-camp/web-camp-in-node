@@ -12,9 +12,13 @@
 - [ ] (RDB) MariaDB SQL
 - [ ] (ORM) sequelize
 - [ ] node 同步、非同步
+- [ ] 登入 API
 
 未納入學習流程中
 
+- [ ] 做有 token 的 CRUD API
+- [ ] cors
+- [ ] 資料庫正規化 (one to one, one to many, many to many)
 - [ ] (ARM Linux) Raspberry Pi 當作 EC2
 - [ ] (Query Builder) Knex.js
 - [ ] redis(快取)，參考[此篇](https://www.shiplation.com/article/dPktMmGoe/RORF8zdeJ)
@@ -39,8 +43,3 @@ fork 一份回去，並且提 PR 回來，將自己加入這一篇 README.md 的
 
 -------
 
-做無 token 的 CRUD API (前面全部串起來)
-做登入
-做有 token 的 CRUD API
-cors
->>> 資料庫正規化 (one to one, one to many, many to many)
