@@ -34,3 +34,13 @@
 fork 一份回去，並且提 PR 回來，將自己加入這一篇 README.md 的 `# Community #web-camp-in-node Content` 段落
 
 # Community #web-camp-in-node Content
+
+
+
+-------
+
+做無 token 的 CRUD API (前面全部串起來)
+做登入
+做有 token 的 CRUD API
+cors
+>>> 資料庫正規化 (one to one, one to many, many to many)
