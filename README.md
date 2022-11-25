@@ -16,9 +16,12 @@
 
 未納入學習流程中
 
+- [ ] 資料庫正規化 (one to one, one to many, many to many)
 - [ ] 做有 token 的 CRUD API
 - [ ] cors
-- [ ] 資料庫正規化 (one to one, one to many, many to many)
+- [ ] 上傳檔案其它做法(流程)
+- [ ] 串金流
+- [ ] oauth2 流程
 - [ ] (ARM Linux) Raspberry Pi 當作 EC2
 - [ ] (Query Builder) Knex.js
 - [ ] redis(快取)，參考[此篇](https://www.shiplation.com/article/dPktMmGoe/RORF8zdeJ)
