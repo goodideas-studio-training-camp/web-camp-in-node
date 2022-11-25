@@ -22,12 +22,12 @@
 
 ### 轉貼 alex 的分享
 
-RESTful 的話應該會讀這篇 https://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm 當初提出 REST 的論文
-RBAC 應該會讀 Role-Based Access Control Second Edition, 這篇比較多理念性的東西，偏長但是滿稀有的 material
-Auth 的書（待補）但 OAuth 或密碼學方面不錯
-JWT 可能會從 RFC 開始讀，因為東西偏短
-SQL 書待捕
-NoSQL 可以讀 https://www.amazon.com/Professional-NoSQL-Shashank-Tiwari/dp/047094224X 算是有滿多新概念
+- RESTful 可以讀 [這篇](https://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm) ，這是當初提出 REST 的論文
+- RBAC 應該會讀 Role-Based Access Control Second Edition, 這篇比較多理念性的東西，偏長但是滿稀有的 material
+- Auth 的書（待補）但 OAuth 或密碼學方面不錯
+- JWT 可能會從 RFC 開始讀，因為東西偏短
+- SQL 書待捕
+- NoSQL 可以讀 https://www.amazon.com/Professional-NoSQL-Shashank-Tiwari/dp/047094224X 算是有滿多新概念
 
 ## 使用方式
 
