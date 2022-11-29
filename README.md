@@ -36,6 +36,12 @@
 - SQL 書待捕
 - NoSQL 可以讀 https://www.amazon.com/Professional-NoSQL-Shashank-Tiwari/dp/047094224X 算是有滿多新概念
 
+## 工具替代方案
+
+- NestJS 框架級的後端套件，以 Express 為基底
+- node -> [Deno](https://deno.land/)
+- express -> [koa](https://koajs.com/)
+
 ## 使用方式
 
 fork 一份回去，並且提 PR 回來，將自己加入這一篇 README.md 的 `# Community #web-camp-in-node Content` 段落
