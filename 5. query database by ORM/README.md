@@ -7,7 +7,7 @@
 - 在 node.js 環境，透過 sequelize 語法 查詢幾個 Story 熟悉資料庫語法
 - 透過 sequelize 語法進行基本的資料操作行為
 
-![](https://i.imgur.com/qtfMqEj.png)
+![image](https://github.com/dwatow/JavaScript30/assets/1825852/8c00f395-935f-42e7-aac8-8461855ac7b4)
 
 - 資料庫: mariadb (可以自己換成別的)
 
