@@ -2,7 +2,7 @@
 
 利用前面學習的建立這樣的資料庫
 
-![](https://i.imgur.com/qtfMqEj.png)
+![image](https://github.com/dwatow/JavaScript30/assets/1825852/8c00f395-935f-42e7-aac8-8461855ac7b4)
 
 使用
 
