@@ -6,7 +6,7 @@
 
 - 在 node 環境，透過 sequelize 語法 建立資料表
 
-![](https://i.imgur.com/qtfMqEj.png)
+![image](https://github.com/dwatow/JavaScript30/assets/1825852/8c00f395-935f-42e7-aac8-8461855ac7b4)
 
 - 資料庫: mariadb (可以自己換成別的)
 - 要用 sequelize 的 migration 建立資料庫
