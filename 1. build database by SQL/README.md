@@ -5,9 +5,7 @@
 給一個設計好的資料庫
 
 - 在 Terminal 環境，透過 SQL 語法 建立資料表
-
-![](https://hackmd.io/_uploads/ryiZqlMih.png)
-
+![image](https://github.com/dwatow/JavaScript30/assets/1825852/8c00f395-935f-42e7-aac8-8461855ac7b4)
 - 資料庫: mariadb (可以自己換成別的)
 - 可使用 my-cli 可以在熟悉資料庫語法時，出現 auto complete
 
